@@ -50,6 +50,6 @@ app.post('/login',async(req,res)=>{
     }
 })
 
-app.listen(1300,()=>{
+app.listen(3000,()=>{
     console.log('server is running on the port')
 })
